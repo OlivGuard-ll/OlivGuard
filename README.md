@@ -1,3 +1,8 @@
 # OlivGuard
 
-Aqui poderá encontrar todos os códigos utilizados na construção do projeto da OlivGuard!
+Códigos do projeto OlivGuard. 
+
+Conteúdo: 
+Simulador Financeiro
+Códigos do Arduíno
+Tabelas do Bando de Dados
